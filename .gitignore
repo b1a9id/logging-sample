@@ -36,3 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 /logs/spring.log
+/logs/application.log
+/logs/error.log
